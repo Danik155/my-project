@@ -1,3 +1,22 @@
 fourth file
 
 This file was modified in the new-feature branch
+
+New text
+
+
+
+
+
+
+
+
+
+
+Another new text
+
+
+
+
+
+
